@@ -6,6 +6,8 @@ build
 **/build/
 !src/**/build/
 
+**/test/
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
